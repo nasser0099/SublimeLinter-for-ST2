@@ -123,7 +123,8 @@
         "browser": true,
         "wsh": true,
         "trailing": true,
-        "sub": true
+        "sub": true,
+        "devel": true
     },
 
     // A list of command line options to send to gjslint. --nobeep is always sent.
